@@ -20,7 +20,7 @@ Technologies Used:
 
 How to View:
 
-  1. Online Access: Visit the live website at [https://your-live-site-url.com](https://your-live-site-url.com) to explore the features firsthand.
+  1. Online Access: Visit the live website at [https://mahalakshmis20.github.io/Greenden-Tailwind-/] to explore the features firsthand.
 
   2. Local Setup:
    - Clone the repository:
